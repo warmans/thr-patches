@@ -1,2 +1,4 @@
-# warmans
-thr-patches
+# THR Patches
+
+Patches for Yamaha THRII
+
